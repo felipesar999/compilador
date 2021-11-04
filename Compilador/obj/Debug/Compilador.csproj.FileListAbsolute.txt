@@ -1,0 +1,119 @@
+C:\Users\User\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\User\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\User\source\repos\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\User\source\repos\Compilador\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\User\source\repos\Compilador\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.CopyComplete
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorLexer.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorParser.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorListener.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorBaseListener.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorVisitor.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\AnalizadorBaseVisitor.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\User\source\repos\Compilador\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorLexer.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorParser.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorListener.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorBaseListener.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorVisitor.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\AnalizadorBaseVisitor.cs
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.csproj.CopyComplete
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\lfpalacioe\Downloads\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorLexer.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorParser.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorListener.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorBaseListener.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorVisitor.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\AnalizadorBaseVisitor.cs
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.csproj.CopyComplete
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\lfpalacioe\Documents\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\bin\Debug\Compilador.exe
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\bin\Debug\Compilador.pdb
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorLexer.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorParser.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorListener.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorBaseListener.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorVisitor.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\AnalizadorBaseVisitor.cs
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.CopyComplete
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.exe
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (2)\Compilador\obj\Debug\Compilador.pdb
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\bin\Debug\Compilador.exe
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\bin\Debug\Compilador.pdb
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.csproj.CopyComplete
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.exe
+C:\Users\jefe.registro.USBMED\Desktop\Compilador (3)\Compilador (2)\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorLexer.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorParser.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorListener.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorBaseListener.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorVisitor.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\AnalizadorBaseVisitor.cs
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.frm_main.resources
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.frm_manual.resources
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Administrador\Documents\Clases\Compiladores\Compilador\Compilador\obj\Debug\Compilador.pdb

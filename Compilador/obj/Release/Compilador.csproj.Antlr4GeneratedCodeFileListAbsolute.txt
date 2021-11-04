@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorLexer.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorParser.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorListener.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorBaseListener.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorVisitor.cs
+C:\Users\User\source\repos\Compilador\Compilador\obj\Release\AnalizadorBaseVisitor.cs

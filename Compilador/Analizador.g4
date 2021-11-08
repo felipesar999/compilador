@@ -77,7 +77,7 @@ stat_block: condicion_if|
 			OTHER {System.err.println("cadena desconocida:"+ $OTHER.text);};
 
 
-expr: expr POW<assoc=right> expr|
+expr: expr POW<assoc=right> expr #powexpr|
 	  SUBS expr|
 	  NOT expr
 	  expr AND expr|
@@ -91,8 +91,8 @@ expr: expr POW<assoc=right> expr|
 atomico: PAREN_A expr PAREN_C  #atomexpr|
 		INTEGERS #intatom|
 		(TRUE|FALSE) #booleanatom|
-		IDENTIFIER #idatom|
-		STRING #stringatom;
+		IDENTIFIER #idatom;
+		//STRING #stringatom;
 
 
 

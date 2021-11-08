@@ -55,30 +55,64 @@ dec_asing_var : VAR IDENTIFIER ASSIGN INTEGERS COLON |
 				  INT IDENTIFIER ASSIGN INTEGERS COLON |
 				  INT IDENTIFIER ASSIGN ops;
 
+
 ops : INTEGERS PROD INTEGERS COLON|
 	  INTEGERS PLUS INTEGERS COLON |
-	  INTEGERS SUB INTEGERS  COLON|
+	  INTEGERS SUBS INTEGERS  COLON|
 	  INTEGERS DIV INTEGERS COLON |
       ;
 
 ops_variables : IDENTIFIER PROD IDENTIFIER COLON|
 	  IDENTIFIER PLUS IDENTIFIER COLON |
-	  IDENTIFIER SUB IDENTIFIER  COLON|
+	  IDENTIFIER SUBS IDENTIFIER  COLON|
 	  IDENTIFIER DIV IDENTIFIER COLON;
 
 println : PRINT IDENTIFIER COLON;
 
+condicion_if: IF condicion (ELSE IF condicion)* (ELSE stat_block)?;
 
+condicion: expr stat_block;
+
+stat_block: condicion_if|
+			OTHER {System.err.println("cadena desconocida:"+ $OTHER.text);};
+
+
+expr: expr POW<assoc=right> expr|
+	  SUBS expr|
+	  NOT expr
+	  expr AND expr|
+	  expr OR expr|
+	  atomico|
+	  expr op=(PROD|DIV|MOD) expr|
+	  expr op=(PLUS|SUBS) expr|
+	  expr op=(GT|LT|GEQ|LEG) expr|
+	  expr op=(EQ|NEQ) expr;
+
+atomico: PAREN_A expr PAREN_C  #atomexpr|
+		INTEGERS #intatom|
+		(TRUE|FALSE) #booleanatom|
+		IDENTIFIER #idatom|
+		STRING #stringatom;
+
+
+
+
+		
+	  	
 /*
  * Lexer Rules
  */
-
+OTHER:.;
+//boolean
+TRUE: 'true';
+FALSE: 'false';
 //Palabras reservadas.
 ACCESSM : ('public' | 'private' | 'protected');
 PROGRAM : 'program';
 VAR : 'var';
 INT : 'int';
 PRINT : 'print';
+IF: 'if';
 //Operadores
 PLUS : '+';
 SUBS : '-';
@@ -95,6 +129,8 @@ GEQ : '>=';
 LEG : '<=';
 EQ : '==';
 NEQ : '!=';
+POW: '^';
+MOD: '%';
 //Asignacion
 ASSIGN : '=';
 // llaves, corchetes y parentesis
@@ -122,6 +158,6 @@ ESC_SEQ
     ;
 //Simbolos considerados desconocidos.
 Unknown : '[<{|]'+ 
-			|'^'|'´'|'~'|'`'|'?'+|'¿'+|[¿?]+[?¿]+|'¨'+|[a_z¿?]+|[¿?a_z]+;
+			|'´'|'~'|'`'|'?'+|'¿'+|[¿?]+[?¿]+|'¨'+|[a_z¿?]+|[¿?a_z]+;
 //Obviamos la tabulacion, salto de linea y espacios.
 WS:	[\t\n\r] -> skip;

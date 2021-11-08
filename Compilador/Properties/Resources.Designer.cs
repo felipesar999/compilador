@@ -42,7 +42,8 @@ namespace Compilador.Properties
         {
             get
             {
-                if ((resourceMan == null))
+                if ((resourceMan == 
+                    ))
                 {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Compilador.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;

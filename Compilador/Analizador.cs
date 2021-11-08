@@ -209,6 +209,43 @@ namespace Compilador
             var result = Simbolos.Find(x => x.identificador.Equals(context.children[1].ToString()));
             Console.Write("\nRESULTADO: {0}\n", result.valor);
             return base.VisitPrintln(context);
+
+
         }
+
+        public override ValueType Visitatomexpr([NotNull] AnalizadorParser.atomexpr context)
+        {
+            return this.Visit(context.expr());
+        }
+
+        public override ValueType Visitintatom([NotNull]AnalizadorParser.intatom context) 
+        {
+            int Value=(int.Parse(context.getText()));
+            return Value;
+        }
+        public override ValueType Visitbooleanatom([NotNull]AnalizadorParser.booleanatom context)
+        {
+            Boolean value = (Boolean.Parse(context.gettext()));
+            return value;
+        }
+
+        public override ValueType Visitidatom([NotNull]AnalizadorParser.idatom context)
+        {
+            return context.gettext();
+        }
+
+        public override double Visitpowexpr([NotNull]AnalizadorParser.powexpr context) 
+        {
+             double left = this.Visit(context.expr(0));
+            double right = this.Visit(context.expr(1));
+            double valor = Math.Pow(left, right);
+            return valor;
+        }
+
+
+
+
+
+        public override string
     }
 }
